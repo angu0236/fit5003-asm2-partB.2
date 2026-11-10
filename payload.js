@@ -25,7 +25,7 @@
 
 // CONSTANTS
 const PROFILE_ENDPOINT = "/profile";
-const ATTACKER_EMAIL = "attacker-owns-this@evil.example";
+const ATTACKER_EMAIL = "attacker@email.com";
 
 /**
  * Take over the victim's account by changing their email via the profile feature.
